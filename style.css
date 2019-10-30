@@ -1,0 +1,15 @@
+* {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+button {
+  padding: 10px;
+  border: solid 1px grey;
+  color: white;
+  background-color: darkblue;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgb(87, 87, 206);
+}
